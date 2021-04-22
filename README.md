@@ -1,14 +1,17 @@
 ## Ajax Contact Extension For Magento 2
-**Magento 2 Ajax Contact Extension** (also called [Magento 2 Ajax Contact Form](https://magepow.com/magento-ajax-contact-form.html)) by Magepow allows the customer to submit the form with ajax without redirect to the contact page. Additionally, you can add to anywhere with widget use "Ajax Contact Form Widget". 
 
-The Ajaxcontact block is Responsive Web Design (RWD) ready. It will recalculate itself based on the parent.
+### Description
 
-### Highlight features
+**Magento 2 Ajax Contact Extension** (also known as Magento 2 Ajax Contact Form) is an extension that allows customers to submit the form with ajax without redirect to the contact page and also without reloading the page. In addition, you can add a contact form anywhere with the widget type “Ajax Contact Form Widget”.
+
+The Ajax contact block is Responsive Web Design (RWD) ready. It will recalculate itself based on the parent.
+
+### Highlight features and benefits
 - Allow use Widget to add a contact form to any page quickly and conveniently.
 
 If you want to collect customer's opinions/questions on any page on the Magento website, the Ajax Contact Form extension is the right choice for all e-commerce stores. You can put a contact form on the homepage, product detail page, category page, blog... quickly with a few basic operations in the admin panel.
 
-- Ajax integration speeds up form submissions
+- Ajax integration speeds up form submissions and ptimize UX
 
 Build an Ajax-based contact form, A customer submits information in the contact form without reloading the page or redirects to the contact page. After the client clicked on the submit form button, the successfully submit notice is visible right on the current page.
 
