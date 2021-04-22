@@ -13,7 +13,7 @@ If you want to collect customer's opinions/questions on any page on the Magento 
 
 - Ajax integration speeds up form submissions and ptimize UX
 
-Build an Ajax-based contact form, A customer submits information in the contact form without reloading the page or redirects to the contact page. After the client clicked on the submit form button, the successfully submit notice is visible right on the current page.
+Build an [Ajax](https://www.w3schools.com/whatis/whatis_ajax.asp)-based contact form, A customer submits information in the contact form without reloading the page or redirects to the contact page. After the client clicked on the submit form button, the successfully submit notice is visible right on the current page.
 
 - Unlimited number of contact forms
 
